@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/malek-bt/Social-proof-section)
-- Live Site URL: [GitHub Pages Live URL]()
+- Live Site URL: [GitHub Pages Live URL](https://malek-bt.github.io/Social-proof-section/)
 
 ## My process
 
